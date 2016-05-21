@@ -1,71 +1,49 @@
-# Advanced JavaScript syllabus
+# AP Computer Science Syllabus
 
-***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/master/meta.md) document.***
-
-* **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
+* **Course Website:** [APCS](https://sites.google.com/site/sallenorhs/home/ap-computer-science)
+* **Instructor:** Stephanie Allen, [sallen@eduhsd.k12.ca.us](mailto:sallen@eduhsd.k12.ca.us)
 * **Need help?**
-    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-        * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
-   * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
+    * Office Hours during break or lunch M-F
+    * [Email](mailto:sallen@eduhsd.k12.ca.us) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
 
-Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
+AP Computer Science A emphasizes object-oriented programming methodology using Java, with a concentration on problem solving and algorithm development and is meant to be the equivalent of a first semester college-level course in Computer Science. The course is designed for students with no prior computing experience.  
 
-Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
+Students will be learning all levels of the Java language including basic syntax, declaration of variables, if-else statements, for, while, and do-while loops, library classes, and GUI (graphical user interface) tools. This course will be especially helpful to students contemplating careers in computer science, business, statistics, insurance and engineering. Students may earn college credit by successfully passing the Computer Science Advanced Placement Exam in May. 
 
-## Prerequisites
+## Class Expectation
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
-* Understanding of variables, data types, control flow, and basic function usage in JavaScript - see [Beginner Materials](#beginner-materials)
-* Strong intermediate knowledge of HTML, and at least basics of CSS
-* Basic jQuery knowledge (DOM interaction) is a plus
+* Come prepared (Arrive on time, have all assignments completed. Use bathroom before entering classroom.)
+* Be polite (Speak respectfully to teachers and students.  Do not disrupt another student’s learning.)
+* Be productive (Complete all warm-ups and assignments on time. Be an active learner. Take notes.  No distractions. No sleeping.)
+* No food or drinks are allowed in the lab at any time.
+* Follow all Oak Ridge rules including the Honor Code.
+* Unless otherwise instructed by the teacher, students shall turn off, not use, and keep out of sight cell phones and other signaling devices during the class period. Furthermore, any listening, recording, or videotaping of peers, teachers, or visitor to the classroom without prior consent is prohibited. Consequences follow ORHS policy as stated in student handbook
 
-These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
+## APCS Honor Code
 
-## Course Overview
+AP Computer Science can be hard.  Object-oriented concepts can take time for some students to grasp. Some students in computer science will submit work that is not their own. In order to be successful in this class you must try to figure out the concepts by experimenting with your programs.  Do not be afraid see what will happen if you write your code in a particular way.  That is how you will learn.  By copying other’s code you are shortchanging your own learning and undermining the atmosphere of trust in our class.  
 
-We will dive into the nuances of JavaScript, how prototypal inheritance compares to classical inheritance, and how this can be used to build dynamic and complex web applications.  Modern tools like jQuery and BackboneJS will be discussed, but students will learn the building blocks of these frameworks and after this course be able to understand what is happening under the hood.  The focus will be on development for browsers, though most applies to other systems like Node.js, Phonegap, etc.  Topics covered include:
+**You are expected to submit your own work in this course.** 
+In particular, attempting to take credit for someone else’s work by turning it in as your own constitutes plagiarism, which is a serious violation of the Oak Ridge High School academic integrity policy.  This does not mean that any discussion of assignments is somehow a violation of the integrity policy. In computer science courses, it is usually appropriate to ask others for hints and debugging help or to talk generally about problem-solving strategies and program structure
+ 
+**You must not share actual program code with other students.** 
+In particular, you should not ask anyone to give you a copy of their code or, conversely, give your code to another student who asks you for it. Similarly, you should not discuss your algorithmic strategies to such an extent that you and your collaborators end up turning in exactly the same code. Discuss ideas together, but do the coding on your own. 
 
-* Encapsulation, closures and scope
-* Classical vs. prototypal inheritance
-* The event loop
-* AJAX and JSONP
-    * local
-    * remote (e.g. Foursquare)
-* Creating MVC-style models (a'la Backbone.js) from scratch
-* Test- and Pseudocode-Driven Development
+**You must be prepared to explain any program code you submit.** 
+Sometimes students change their code by rewriting comments, changing variable names, and so forth, to disguise the fact that their work is copied from someone else. If you wrote the code yourself, you will be able to explain it.  I may ask you to modify a particular method or explain an algorithm you were expected to create.  If you are unable to do this, no credit will be given for the assignment. 
 
-Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
+## Computer Security Policy
 
-See [this interview](https://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
-
-## Homework/Projects
-
-All assignments are listed within the [Course Outline](#course-outline).
-
-### Workflow
-
-If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps:
-
-1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
-1. Clone the repository to your computer.
-1. Open the `index.html` file in a browser and open the Developer Tools.
-1. Modify the files to complete your solution.
-1. Refresh the `index.html` page to see the results, and repeat.
-1. Make sure all of your code is committed.
-1. Push/sync up to GitHub.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
-1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
-
-When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
-
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@afeld` with the question to make sure I know to look at it sooner.
-
-Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level. "BONUS" levels are for extra credit.
+* Computers in our lab have a security software program. This software disables many of the features you might find common to other computers, including any home computer you might have. The software also monitors and records all use by the student and may be used for disciplinary purposes.
+* Do not attempt to defeat or disable the security software. 
+* Do not change the desktop environment, which includes the color, fonts, video display mode, screen saver, icon arrangement, and especially the wallpaper. 
+* Do not download files onto your computer's hard drive without specific permission from your instructor. 
+* Do not install any programs on your computer. 
+* Do not delete or rename any file on your computer's hard drive or any other school computer unless it is one that you created. 
+* Do not copy any software on any school computer for your personal use. This is illegal. If you want a copy, buy your own. 
 
 ### Requirements
 
@@ -89,18 +67,7 @@ These apply to real life, as well.
 
 ### Class 1
 
-1. Introduction
-    * Put name on sticky note on back of monitor
-    * Discuss what the class is going to cover
-    * Everyone introduce themselves
-        * Name
-        * What you "do"
-        * What are your goals for the class?
-        * What's something in JS (or technology) you worry that your peers understand but you don't?
-1. Setup
-    * How many people are comfortable with Git/GitHub?
-    * Install [GitHub Desktop](https://desktop.github.com/)
-        * If you are comfortable with Git already, you can skip this.
+ can skip this.
     * Sign up for GitHub
 1. GitHub workflow
     * Walk through [workflow](#workflow)
@@ -195,14 +162,6 @@ These apply to real life, as well.
         * [Game of Life](http://coderetreat.org/gol)
         * Tic Tac Toe
 
-## Pairing Tips
-
-* Three people is possible, but two works best
-* Agree on an editor and environment that you're both comfortable with
-* The person who's less experienced/comfortable should have more keyboard time
-* Switch who's "driving" regularly
-* Make sure to save the code and send it to both people
-
 ## Resources
 
 ### Required Reading
@@ -273,48 +232,14 @@ This class assumes you are confident with this material, but in case you need a 
     * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-#### HTML/CSS/JS Sandboxes
-
-* [JS Bin](http://jsbin.com/) (recommended)
-* [bl.ocks.org](http://bl.ocks.org/)
-* [Cloud9](https://c9.io/)
-* [CodePen](http://codepen.io/pen/)
-* [JSFiddle](http://jsfiddle.net/)
-* [Plunker](http://plnkr.co/)
-* [rawgithub.com](http://rawgit.com/)
-
-#### Frameworks
-
-* Framework comparison: [TodoMVC](http://todomvc.com)
-* [Testing](https://coderwall.com/p/ntbixw)
-
-### Reference
-
-* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
-* [w3schools](http://www.w3schools.com/jsref/default.asp)
-* [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
-
-### More Examples
-
-* [map/reduce](http://jsbin.com/ojapAsUR/2/edit?js) (in [Underscore](http://underscorejs.org/#map))
-
 ## Grading
 
-* Class Participation – 30%
-* Homework – 70%
+Percentages | Weights  
+----------- | --------- 
+90%  - 100% :   	A | Practice/Assignments - 20%
+80%  -  89% :  	B | Labs/Programs - 10%
+70%  -  79% :  	C | Chapter Exams - 50%
+60%  -  69% :  	D | Final Exam - 20%
+Below 60% :    	F |  
 
-## Statements on Plagiarism
 
-### SCPS
-
-> New York University takes plagiarism very seriously and regards it as a form of fraud.  The definition of plagiarism that has been adopted by the School of Continuing and Professional Studies is as follows: "Plagiarism is presenting someone else's work as though it were one's own.  More specifically, plagiarism is to present as one's own words quoted without quotation marks from another writer; a paraphrased passage from another writer’s work; or facts or ideas gathered, organized, and reported by someone else, orally and/or in writing.  Since plagiarism is a matter of fact, not of the student's intention, it is crucial that acknowledgement of the sources be accurate and complete.  Even where there is not a conscious intention to deceive, the failure to make appropriate acknowledgement constitutes plagiarism.  Penalties for plagiarism range from failure for a paper or course to dismissal from the University.
-
-### Instructor
-
-Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
-
-Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
-
-## License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> and all other materials under https://github.com/advanced-js are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
