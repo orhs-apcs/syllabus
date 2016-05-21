@@ -65,102 +65,10 @@ These apply to real life, as well.
 
 ## Course Outline
 
-### Class 1
+### Semester 1
 
- can skip this.
-    * Sign up for GitHub
-1. GitHub workflow
-    * Walk through [workflow](#workflow)
-    * Create pull request on [students repository](https://github.com/advanced-js/students)
-1. Explain how slides work
-1. Get through `countdown_exercise` slide
-1. Talk through [requirements](#homework-projects/requirements)
-
-#### Homework
-
-* Join [the chat room](https://gitter.im/advanced-js/syllabus).
-* Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted.
-    * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-* Read [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/).
-* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises.
-* Complete [blink](https://github.com/advanced-js/blink) exercise.
-
-### Class 2
-
-1. Look at various approaches for `countdown()`
-    * Show recursive solution
-1. Developer Tools walkthrough
-    * Elements (HTML)
-    * Console (JS)
-    * Scripts (JS)
-1. Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
-1. Cover OOP, though "oop_inheritance" slide
-    * [Encapsulation example](http://jsbin.com/baqopu/1/edit?css,js,output)
-    * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
-
-#### Homework
-
-* Read [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [OOP exercise](https://github.com/advanced-js/oop), through V2
-* [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
-
-### Class 3
-
-1. Code review Memory
-1. Get through [`oop_inheritance`](http://advanced-js.github.io/deck/examples/oop_inheritance/) slide
-1. Cover automated testing
-    * Build up a test framework from scratch
-    * Examples in QUnit
-        * [Simple](http://jsbin.com/woqusi/edit?html,js,output)
-        * [Classes](http://jsbin.com/nukamun/edit?js,output)
-        * [QUnit documentation](http://qunitjs.com/)
-    * [Other frameworks](#test-frameworks)
-1. Cover AJAX/CORS/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
-    * Network tab in Developer Tools
-
-#### Homework
-
-* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* Complete [OOP exercise](https://github.com/advanced-js/oop) through V4.
-* [Memory V3](https://github.com/advanced-js/memory#v3)
-
-### Class 4
-
-1. Finish slides
-1. Getting Serious example
-    * Quick intro to Backbone.js
-        * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
-        * Click the Box [example app](http://jsbin.com/IGivato/5/edit?css,js,output)
-        * TDD?
-1. Multiple async
-    * [Promises](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax/promises)/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
-    * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
-
-#### Homework
-
-* [Learn about AJAX](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax#readme)
-* [Mashup](https://github.com/advanced-js/mashup)
-* Improve your previous assignments
-
-### Class 5
-
-1. Present and code review Mashup projects
-1. Possible topics (vote?):
-    * Node.js
-        * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
-            * [HTTP module docs](http://nodejs.org/api/http.html)
-        * HTTP requests
-            * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
-            * Headers
-        * CommonJS?
-    * [Regular Expressions](https://github.com/advanced-js/deck/tree/gh-pages/demos/regex.html)
-        * Convert live input from a text area, e.g.
-            * Link Twitter handles
-            * Substitute select words for emoji, using [emoji-css](http://afeld.github.io/emoji-css/)
-    * Object-Oriented design
-    * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat) – possible "problems":
-        * [Game of Life](http://coderetreat.org/gol)
-        * Tic Tac Toe
+* [Chapter 1: Computer Systems] (https://github.com/orhs-apcs/chapter-1)
+* [Chapter 2: Objects and Primitive Data] (https://github.com/orhs-apcs/chapter-2)
 
 ## Resources
 
