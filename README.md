@@ -13,14 +13,18 @@ AP Computer Science A emphasizes object-oriented programming methodology using J
 
 Students will be learning all levels of the Java language including basic syntax, declaration of variables, if-else statements, for, while, and do-while loops, library classes, and GUI (graphical user interface) tools. This course will be especially helpful to students contemplating careers in computer science, business, statistics, insurance and engineering. Students may earn college credit by successfully passing the Computer Science Advanced Placement Exam in May. 
 
-## Class Expectation
+## Class Expectations
 
 * Come prepared (Arrive on time, have all assignments completed. Use bathroom before entering classroom.)
 * Be polite (Speak respectfully to teachers and students.  Do not disrupt another student’s learning.)
 * Be productive (Complete all warm-ups and assignments on time. Be an active learner. Take notes.  No distractions. No sleeping.)
 * No food or drinks are allowed in the lab at any time.
 * Follow all Oak Ridge rules including the [Honor Code](#apcs-honor-code).
-* Unless otherwise instructed by the teacher, students shall turn off, not use, and keep out of sight cell phones and other signaling devices during the class period. Furthermore, any listening, recording, or videotaping of peers, teachers, or visitor to the classroom without prior consent is prohibited. Consequences follow ORHS policy as stated in student handbook
+* Unless otherwise instructed by the teacher, students shall turn off, not use, and keep out of sight cell phones and other signaling devices during the class period. Furthermore, any listening, recording, or videotaping of peers, teachers, or visitor to the classroom without prior consent is prohibited. Consequences follow ORHS policy as stated in student handbook.
+* AP Exam
+    * All AP Computer Science students are expected to take the AP exam in May. Students with a financial need may request assistance from the counseling office.  The 3 hour AP exam consists of 40 multiple choice questions and 4 free response questions.  You’ll have 90 minutes to complete the multiple choice section and 90 minutes to complete the free response section.  Both sections are worth half of your final score.  
+* Absences
+    * Absent work is given two days to complete for every day missed.  It is always the student’s responsibility to determine what they missed when absent.  
 
 ## APCS Honor Code
 
@@ -45,23 +49,10 @@ Sometimes students change their code by rewriting comments, changing variable na
 * Do not delete or rename any file on your computer's hard drive or any other school computer unless it is one that you created. 
 * Do not copy any software on any school computer for your personal use. This is illegal. If you want a copy, buy your own. 
 
-### Requirements
-
-These apply to real life, as well.
-
-* [Travis CI](https://docs.travis-ci.com/) build should pass, which includes:
-    * All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
-    * All written JS should pass [JSHint](http://jshint.com).
-* Must apply "good programming style" learned in class
-    * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
-    * Optimize for readability.
-        * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
-    * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
-    * For projects, use Object-Oriented Programming.
-* Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
-* Bonus points for:
-    * [Automated tests](#test-frameworks)
-    * Creativity (as long as requirements are fulfilled)
+* AP Exam
+    * All AP Computer Science students are expected to take the AP exam in May. Students with a financial need may request assistance from the counseling office.  The 3 hour AP exam consists of 40 multiple choice questions and 4 free response questions.  You’ll have 90 minutes to complete the multiple choice section and 90 minutes to complete the free response section.  Both sections are worth half of your final score.  
+* Absences
+    * Absent work is given two days to complete for every day missed.  It is always the student’s responsibility to determine what they missed when absent.  
 
 ## Course Outline
 
@@ -72,16 +63,7 @@ These apply to real life, as well.
 
 ## Resources
 
-### Required Reading
-
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
-* https://twitter.com/necolas/status/291978260433219584
-* http://afeld.me/nerdery/1742468
-
-### Beginner Materials
+### Java Platform, Standard Edition
 
 This class assumes you are confident with this material, but in case you need a brush-up...
 
@@ -90,48 +72,22 @@ This class assumes you are confident with this material, but in case you need a 
 * [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
 * see also – [Other Lists](#other-lists)
 
-### Recommended Reading
+### IDE (Integrated Development Environment)
 
 * [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
 * [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
-* [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
-* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
-* [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
-* [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
-* [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
-* [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
-* [Static Web Apps](http://www.staticapps.org/)
-* [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
-* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](https://www.youtube.com/watch?v=iSxNCYcPAFk)
 
-#### Specific Topics
+### Tutorial Videos
 
 * [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks @michaelBenin)
-* [HTML5 Rocks slides](http://slides.html5rocks.com/)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 
-#### Other Lists
+### Online Practice Sites
 
-* [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
-* [Code School](https://www.codeschool.com/paths/javascript)
-* Thoughtbot's [Javascript Trail Map](https://upcase.com/javascript)
-* [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
-* [Superhero.js](http://superherojs.com)
-* [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
+* [Practice-It!](http://practiceit.cs.washington.edu/practiceit/index.jsp) (requires free account)
+* [CodingBat](https://www.codingbat.com/java)
+* [AP Exam Practice](https://codehs.com/course/info/apreview) (requires free account)
 
-### Tools
-
-* code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging:
-    * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
-        * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
-        * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
-    * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-* sharing code snippets: [gist.github.com](https://gist.github.com/)
-* asking questions: [Stack Overflow](http://stackoverflow.com/)
-
-#### GitHub
+### GitHub
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
@@ -150,4 +106,12 @@ Percentages | Weights
 60%  -  69% :  	D | Final Exam - 20%
 Below 60% :    	F |  
 
+*Practice/Assignments:*  Textbook reading and book problems will be assigned each chapter.  Book problems must be corrected from the online key posted on Moodle.  All practice and assignments must be completed on your own.  Handwritten solutions to PracticeIt! problems MUST be turned in on test day. You may not copy or look at another student’s work. Submitting answers found online to practice problems is considered a breach of academic integrity.
 
+*Labs/Programs:* Assignments given in class meant to introduce or reinforce a topic. Lab assignments may include the coding of programs and/or functions, testing programming code, writing pseudocode and/or algorithms, and problem solving exercises. You will be given time in class to complete lab assignments. Use your time wisely. You may not work on any other work until the chapter labs have been completed.  Doing so will result in a zero score for the remainder of your labs for that chapter. Any assignment not completed in class must be completed on your own time. Required labs are listed on your assignment sheet and can be downloaded from Moodle.  Labs will be due on the day before the chapter test and handwritten copies of your code MUST be turned in on test day.
+
+*Tests:* Given at the end of each unit and will be worth 100 points each. All tests will be designed after the actual AP Exam. Both multiple choice and free-response question formats will be used. All students are expected to complete tests on the date announced for the test. If a conflict exists notify the teacher prior to the test date.  Students scoring below 50% on any test will have the option of submitting test corrections to raise their score to 50%.  
+
+*Final Exam:* Cumulative and will be given at the end of each semester. Prior to the actual AP Computer Science Exam, you will take a practice AP Exam which will count as the semester exam for second semester.
+
+*_Please be advised that these policies and procedures are subject to change._*  
