@@ -19,7 +19,7 @@ Students will be learning all levels of the Java language including basic syntax
 * Be polite (Speak respectfully to teachers and students.  Do not disrupt another student’s learning.)
 * Be productive (Complete all warm-ups and assignments on time. Be an active learner. Take notes.  No distractions. No sleeping.)
 * No food or drinks are allowed in the lab at any time.
-* Follow all Oak Ridge rules including the [Honor Code](#APCS Honor Code).
+* Follow all Oak Ridge rules including the [Honor Code](#apcs-honor-code).
 * Unless otherwise instructed by the teacher, students shall turn off, not use, and keep out of sight cell phones and other signaling devices during the class period. Furthermore, any listening, recording, or videotaping of peers, teachers, or visitor to the classroom without prior consent is prohibited. Consequences follow ORHS policy as stated in student handbook
 
 ## APCS Honor Code
