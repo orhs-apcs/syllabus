@@ -14,7 +14,7 @@ AP Computer Science A emphasizes object-oriented programming methodology using J
 
 Students will be learning all levels of the Java language including basic syntax, declaration of variables, if-else statements, for, while, and do-while loops, library classes, and GUI (graphical user interface) tools. This course will be especially helpful to students contemplating careers in computer science, business, statistics, insurance and engineering. Students may earn college credit by successfully passing the Computer Science Advanced Placement Exam in May. 
 
-## Class Expectations
+## Course Expectations
 
 * Come prepared (Arrive on time, have all assignments completed. Use bathroom before entering classroom.)
 * Be polite (Speak respectfully to teachers and students.  Do not disrupt another student’s learning.)
@@ -119,4 +119,4 @@ Below 60% :    	F |
 
 **Final Exam:** Cumulative and will be given at the end of each semester. Prior to the actual AP Computer Science Exam, you will take a practice AP Exam which will count as the semester exam for second semester.
 
-***Please be advised that these policies and procedures are subject to change.*** 
+***Please be advised these policies and procedures are subject to change.*** 
