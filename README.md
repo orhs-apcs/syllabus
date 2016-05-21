@@ -1,9 +1,10 @@
 # AP Computer Science Syllabus
 
-* **Course Website:** [APCS](https://sites.google.com/site/sallenorhs/home/ap-computer-science)
+* **Course Website:** [APCS Website](https://sites.google.com/site/sallenorhs/home/ap-computer-science)
+* **Course Calendar:** [APCS Calendar](https://calendar.google.com/calendar/embed?src=s4hisl49mjf1gaecb5lheg44l0%40group.calendar.google.com&ctz=America/Los_Angeles)
 * **Instructor:** Stephanie Allen, [sallen@eduhsd.k12.ca.us](mailto:sallen@eduhsd.k12.ca.us)
 * **Need help?**
-    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
+    * Look through and create [issues](https://github.com/orhs-apcs/syllabus/issues)
     * Office Hours during break or lunch M-F
     * [Email](mailto:sallen@eduhsd.k12.ca.us) for 1-on-1 help, or to set up a time to meet
 
@@ -21,10 +22,8 @@ Students will be learning all levels of the Java language including basic syntax
 * No food or drinks are allowed in the lab at any time.
 * Follow all Oak Ridge rules including the [Honor Code](#apcs-honor-code).
 * Unless otherwise instructed by the teacher, students shall turn off, not use, and keep out of sight cell phones and other signaling devices during the class period. Furthermore, any listening, recording, or videotaping of peers, teachers, or visitor to the classroom without prior consent is prohibited. Consequences follow ORHS policy as stated in student handbook.
-* AP Exam
-    * All AP Computer Science students are expected to take the AP exam in May. Students with a financial need may request assistance from the counseling office.  The 3 hour AP exam consists of 40 multiple choice questions and 4 free response questions.  You’ll have 90 minutes to complete the multiple choice section and 90 minutes to complete the free response section.  Both sections are worth half of your final score.  
-* Absences
-    * Absent work is given two days to complete for every day missed.  It is always the student’s responsibility to determine what they missed when absent.  
+* AP Exam: All AP Computer Science students are expected to take the AP exam in May. Students with a financial need may request assistance from the counseling office.  The 3 hour AP exam consists of 40 multiple choice questions and 4 free response questions.  You’ll have 90 minutes to complete the multiple choice section and 90 minutes to complete the free response section.  Both sections are worth half of your final score.  
+* Absences: Absent work is given two days to complete for every day missed.  It is always the student’s responsibility to determine what they missed when absent.  
 
 ## APCS Honor Code
 
@@ -49,43 +48,49 @@ Sometimes students change their code by rewriting comments, changing variable na
 * Do not delete or rename any file on your computer's hard drive or any other school computer unless it is one that you created. 
 * Do not copy any software on any school computer for your personal use. This is illegal. If you want a copy, buy your own. 
 
-* AP Exam
-    * All AP Computer Science students are expected to take the AP exam in May. Students with a financial need may request assistance from the counseling office.  The 3 hour AP exam consists of 40 multiple choice questions and 4 free response questions.  You’ll have 90 minutes to complete the multiple choice section and 90 minutes to complete the free response section.  Both sections are worth half of your final score.  
-* Absences
-    * Absent work is given two days to complete for every day missed.  It is always the student’s responsibility to determine what they missed when absent.  
-
 ## Course Outline
 
 ### Semester 1
 
-* [Chapter 1: Computer Systems] (https://github.com/orhs-apcs/chapter-1)
-* [Chapter 2: Objects and Primitive Data] (https://github.com/orhs-apcs/chapter-2)
+* [Chapter 1: Computer Systems](https://github.com/orhs-apcs/chapter-1)
+* [Chapter 2: Objects and Primitive Data](https://github.com/orhs-apcs/chapter-2)
+* [Chapter 3: Program Statements](https://github.com/orhs-apcs/chapter-3)
+* [Chapter 4: Writing Classes](https://github.com/orhs-apcs/chapter-4)
+* [Chapter 6: Arrays](https://github.com/orhs-apcs/chapter-5)
+
+### Semester 2
+
+* [Chapter 5: Enhancing Classes](https://github.com/orhs-apcs/chapter-5)
+* [Chapter 7: Inheritance](https://github.com/orhs-apcs/chapter-7)
+* [Chapter 8: Recursion](https://github.com/orhs-apcs/chapter-8)
 
 ## Resources
 
 ### Java Platform, Standard Edition
 
-This class assumes you are confident with this material, but in case you need a brush-up...
-
-* Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
-* [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
-* see also – [Other Lists](#other-lists)
+* [Java SDK 8u91](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 
 
 ### IDE (Integrated Development Environment)
 
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
-* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
+* [BlueJ](http://www.bluej.org/download/release-notes.html) (used in demonstrations)
+* [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/mars2) (for advanced users)
+* [DrJava](http://www.drjava.org/)
+* [jGrasp](http://www.jgrasp.org/)
+* [repl.it](https://repl.it/languages/java) (browser compiler)
 
 ### Tutorial Videos
 
-* [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
+* [AP Computer Science - Mrs. Allen](https://www.youtube.com/channel/UCG19konCiaXvYwNgeIHSAUQ/playlists?view=50&shelf_id=2&sort=dd) YouTube Channel
+* [The New Boston Java](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
+* [AP Computer Science in 60 Minutes (Java)](https://www.youtube.com/watch?v=3Ky9MZyL8r4)
 
 ### Online Practice Sites
 
 * [Practice-It!](http://practiceit.cs.washington.edu/practiceit/index.jsp) (requires free account)
 * [CodingBat](https://www.codingbat.com/java)
 * [AP Exam Practice](https://codehs.com/course/info/apreview) (requires free account)
+* [CollegeBoard AP Computer Science](https://apstudent.collegeboard.org/apcourse/ap-computer-science-a?compscia)
+* [Oracle Java Tutorial](http://docs.oracle.com/javase/tutorial/java/index.html)
 
 ### GitHub
 
@@ -114,4 +119,4 @@ Below 60% :    	F |
 
 *Final Exam:* Cumulative and will be given at the end of each semester. Prior to the actual AP Computer Science Exam, you will take a practice AP Exam which will count as the semester exam for second semester.
 
-*_Please be advised that these policies and procedures are subject to change._*  
+***Please be advised that these policies and procedures are subject to change.*** 
