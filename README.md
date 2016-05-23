@@ -1,4 +1,4 @@
-# AP Computer Science Syllabus
+#Database Design and SQL Programming
 
 * **Course Website:** [DBSQL Website](https://sites.google.com/site/sallenorhs/db-design-sql)
 * **Instructor:** Stephanie Allen, [sallen@eduhsd.k12.ca.us](mailto:sallen@eduhsd.k12.ca.us)
