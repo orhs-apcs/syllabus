@@ -78,11 +78,12 @@ Sometimes students change their code by rewriting comments, changing variable na
 * [jGrasp](http://www.jgrasp.org/)
 * [repl.it](https://repl.it/languages/java) (browser compiler)
 
-### Tutorial Videos
+### Tutorial Videos and Help Forum
 
 * [AP Computer Science - Mrs. Allen](https://www.youtube.com/channel/UCG19konCiaXvYwNgeIHSAUQ/playlists?view=50&shelf_id=2&sort=dd) YouTube Channel
 * [The New Boston Java](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
 * [AP Computer Science in 60 Minutes (Java)](https://www.youtube.com/watch?v=3Ky9MZyL8r4)
+* [Piazza](https://piazza.com/eduhsd.k12.ca.us/fall2016/apcsa/home)
 
 ### Online Practice Sites
 
@@ -111,9 +112,9 @@ Percentages | Weights
 60%  -  69% :  	D | Final Exam - 20%
 Below 60% :    	F |  
 
-**Practice/Assignments:**  Textbook reading and book problems will be assigned each chapter.  Book problems must be corrected from the online key posted on Moodle.  All practice and assignments must be completed on your own.  Handwritten solutions to PracticeIt! problems MUST be turned in on test day. You may not copy or look at another student’s work. Submitting answers found online to practice problems is considered a breach of academic integrity.
+**Practice/Assignments:**  Textbook reading and book problems will be assigned each chapter. You are encouraged to correct your answers with my solutions key in the classroom. All practice and assignments must be completed on your own. Handwritten solutions to PracticeIt! problems MUST be turned in on test day. You may not copy or look at another student’s work. Submitting answers found online to practice problems is considered a breach of academic integrity.
 
-**Labs/Programs:** Assignments given in class meant to introduce or reinforce a topic. Lab assignments may include the coding of programs and/or functions, testing programming code, writing pseudocode and/or algorithms, and problem solving exercises. You will be given time in class to complete lab assignments. Use your time wisely. You may not work on any other work until the chapter labs have been completed.  Doing so will result in a zero score for the remainder of your labs for that chapter. Any assignment not completed in class must be completed on your own time. Required labs are listed on your assignment sheet and can be downloaded from Moodle.  Labs will be due on the day before the chapter test and handwritten copies of your code MUST be turned in on test day.
+**Labs/Programs:** Assignments given in class meant to introduce or reinforce a topic. Lab assignments may include the coding of programs and/or functions, testing programming code, writing pseudocode and/or algorithms, and problem solving exercises. You will be given time in class to complete lab assignments. Use your time wisely. You may not work on any other work until the chapter labs have been completed. Doing so will result in a zero score for the remainder of your labs for that chapter. Any assignment not completed in class must be completed on your own time. Required labs are listed on your assignment sheet and can be downloaded from GitHub. Labs will be due on the day before the chapter test and handwritten copies of your code MUST be turned in on test day.
 
 **Tests:** Given at the end of each unit and will be worth 100 points each. All tests will be designed after the actual AP Exam. Both multiple choice and free-response question formats will be used. All students are expected to complete tests on the date announced for the test. If a conflict exists notify the teacher prior to the test date.  Students scoring below 50% on any test will have the option of submitting test corrections to raise their score to 50%.  
 
