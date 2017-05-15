@@ -1,7 +1,7 @@
 ## AP Computer Science
 
 * **Course Website:** [APCS Website](https://sites.google.com/site/sallenorhs/home/ap-computer-science)
-* **Course Calendar:** [APCS Calendar](https://calendar.google.com/calendar/embed?src=s4hisl49mjf1gaecb5lheg44l0%40group.calendar.google.com&ctz=America/Los_Angeles)
+* **Course Calendar:** [APCS Calendar](https://calendar.google.com/calendar/embed?src=8iflko7kt2q7e43rpvr2ju2hk8%40group.calendar.google.com&ctz=America/Los_Angeles)
 * **Instructor:** Stephanie Allen, [sallen@eduhsd.k12.ca.us](mailto:sallen@eduhsd.k12.ca.us)
 * **Need help?**
     * Look through and create [issues](https://github.com/orhs-apcs/syllabus/issues)
