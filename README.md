@@ -1,4 +1,4 @@
-#AP Computer Science
+## AP Computer Science
 
 * **Course Website:** [APCS Website](https://sites.google.com/site/sallenorhs/home/ap-computer-science)
 * **Course Calendar:** [APCS Calendar](https://calendar.google.com/calendar/embed?src=s4hisl49mjf1gaecb5lheg44l0%40group.calendar.google.com&ctz=America/Los_Angeles)
