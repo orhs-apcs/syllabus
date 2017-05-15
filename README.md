@@ -83,7 +83,6 @@ Sometimes students change their code by rewriting comments, changing variable na
 * [AP Computer Science - Mrs. Allen](https://www.youtube.com/channel/UCG19konCiaXvYwNgeIHSAUQ/playlists?view=50&shelf_id=2&sort=dd) YouTube Channel
 * [The New Boston Java](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28)
 * [AP Computer Science in 60 Minutes (Java)](https://www.youtube.com/watch?v=3Ky9MZyL8r4)
-* [Piazza](https://piazza.com/eduhsd.k12.ca.us/fall2016/apcsa/home)
 
 ### Online Practice Sites
 
