@@ -14,6 +14,8 @@ AP Computer Science A emphasizes object-oriented programming methodology using J
 
 Students will be learning all levels of the Java language including basic syntax, declaration of variables, if-else statements, for, while, and do-while loops, library classes, and GUI (graphical user interface) tools. This course will be especially helpful to students contemplating careers in computer science, business, statistics, insurance and engineering. Students may earn college credit by successfully passing the Computer Science Advanced Placement Exam in May. 
 
+AP Computer Science A articulates with California State University, Sacramento - CSC 15 Programming Concepts and Methodologies I (3 units).  Junior and senior level students who meet admission requirements for the Accelerated College Entrance (ACE) program, including 3.0 GPA and parent permission, will receive college credit for completion of the course with a grade of C or higher.
+
 ## Course Expectations
 
 * Come prepared (Arrive on time, have all assignments completed. Use bathroom before entering classroom.)
@@ -77,6 +79,7 @@ Sometimes students change their code by rewriting comments, changing variable na
 * [DrJava](http://www.drjava.org/)
 * [jGrasp](http://www.jgrasp.org/)
 * [repl.it](https://repl.it/languages/java) (browser compiler)
+* [IntelliJ](https://www.jetbrains.com)
 
 ### Tutorial Videos and Help Forum
 
